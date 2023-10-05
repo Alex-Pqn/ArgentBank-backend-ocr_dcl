@@ -4,7 +4,9 @@
 
 This codebase contains the code needed to run the backend for Argent Bank.
 
-### Prerequisites
+---
+
+## Prerequisites
 
 - You will need to have Node and `npm` installed locally on your machine.
 - [MongoDB Community Server](https://www.mongodb.com/try/download/community)
@@ -12,7 +14,9 @@ This codebase contains the code needed to run the backend for Argent Bank.
 > [!WARNING]  
 > The [frontend](https://github.com/Alex-Pqn/ArgentBank-ocr_dcl) must also be installed in order to launch this project.
 
-### Instructions
+---
+
+## Instructions
 
 1. Fork this repo
 1. Clone the repo onto your computer
@@ -32,6 +36,8 @@ npm run populate-db
 
 Your server should now be running at http://locahost:3001 and you will now have two users in your MongoDB database!
 
+---
+
 ## Populated Database Data
 
 Once you run the `populate-db` script, you should have two users in your database.
@@ -40,6 +46,8 @@ Once you run the `populate-db` script, you should have two users in your databas
 | ---------------- | ------------|
 | tony@stark.com   | password123 |
 | steve@rogers.com | password456 |
+
+---
 
 ## API Documentation
 
