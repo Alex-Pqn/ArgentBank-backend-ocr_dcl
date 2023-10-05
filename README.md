@@ -4,8 +4,6 @@
 
 This codebase contains the code needed to run the backend for Argent Bank.
 
-## Getting Started
-
 ### Prerequisites
 
 - You will need to have Node and `npm` installed locally on your machine.
