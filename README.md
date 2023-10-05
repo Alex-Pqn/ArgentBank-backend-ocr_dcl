@@ -8,8 +8,6 @@ This codebase contains the code needed to run the backend for Argent Bank.
 
 ### Prerequisites
 
-Argent Bank uses the following tech stack:
-
 - You will need to have Node and `npm` installed locally on your machine.
 - [MongoDB Community Server](https://www.mongodb.com/try/download/community)
 
