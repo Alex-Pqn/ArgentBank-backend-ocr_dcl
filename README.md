@@ -9,7 +9,7 @@ This codebase contains the code needed to run the backend for Argent Bank.
 ## Prerequisites
 
 - You will need to have Node and `npm` installed locally on your machine.
-- [MongoDB Community Server](https://www.mongodb.com/try/download/community)
+- This project uses a local MongoDB database. [Download MongoDB Community Server](https://www.mongodb.com/try/download/community)
 
 > [!WARNING]  
 > The [frontend](https://github.com/Alex-Pqn/ArgentBank-ocr_dcl) must also be installed in order to launch this project.
